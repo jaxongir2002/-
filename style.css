@@ -1,0 +1,32 @@
+.img-md {
+    height: 300px;
+    background-image: url(https://img.championat.com/c/1200x900/news/big/b/a/sekrety-vechnoj-molodosti-kitajskih-zhenschin_1586431949250724342.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+* {
+    padding: 0;
+    margin: 0;
+}
+h1 {
+    font-size: 64PX;
+}
+h4 {
+    font-size: 34px;
+}
+.btn-md {
+    border: solid 3px black;
+    width: 170px;
+    height: 40px;
+    margin-top: 30px;
+    background-color: white;
+}
+.btn-md:hover{
+    border: solid 3px gray  ;
+    background-color: black;
+    transition: .5s;
+    color: white;
+}
+.container {
+    margin-top: 50px;
+}
